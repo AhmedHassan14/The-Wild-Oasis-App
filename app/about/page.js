@@ -47,7 +47,7 @@ export default function Page() {
       <div className="col-span-2 relative aspect-square">
         <Image
           src="/about-2.jpg"
-          className="object-cover" // with aspect-square or aspect-video
+          className="object-cover" // with aspect-square or aspect-video (only for videos and images)
           fill
           alt="Family that manages The Wild Oasis"
         />
